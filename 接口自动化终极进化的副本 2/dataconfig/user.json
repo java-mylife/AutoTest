@@ -1,0 +1,26 @@
+{"header":{"Authorization":"6BLPrhxJ4HTPaXCOgH12XvwE8t+o1YYtGkcP2oXe0jaaBqubl3PL0+8zj7ac0925lGPxYBrBU/CkiWYueZLVZabwPrMnBQ+Wd3IKIuVeALw0AyMmef8kS8VYE1AKJkwAyLhISqntS8gXnYMHhyblsr9qHSCfz6/RICGDQriTwHLDQ0//51OAp0FizZF4SDMuDWME72DyZWB3ZgRgJk+Big","Content-Type":"application/json"},
+"openId":{"openId":"1"},
+"letter":{"letter":"H"},
+"cityName":{"cityName":"杭州","openId":"1"},
+"cityId":{"cityId":383,"openId":"1"},
+"stationId":{"pageNo":1,"pageSize":10,"stationId":30228},
+"spid":{"id":102},
+"order":{
+	"orderTotalMoney": 1,
+	"orderTotalNum": 1,
+	"goodsId": 102,
+	"stationId": 30228,
+	"roomId": "1087196878800740352",
+	"orderPurchaserPhone": "1",
+	"remark": ""
+},
+"zhifu":{
+	"orderNo": "270777277646069760",
+	"payMethod": 1,
+	"payScene": "wap",
+	"returnUrl": "http://qjv.tftihdgt.uurzh",
+	"source": "wap"
+},
+"ddxiangqing":{"orderNo": "268598911945891840"}
+}
+
